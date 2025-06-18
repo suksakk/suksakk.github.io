@@ -3,14 +3,14 @@ repository: jojoldu/jojoldu.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: 이동욱
-title: 서버 백엔드 엔지니어
-email: jojoldu@gmail.com
-website: https://jojoldu.tistory.com
+name: 이건민
+title: 백엔진 개발자
+email: kr.sak999@gmail.com
+website: https://github.com/suksakk
 
 # Social links
-# twitter_username: jojoldu
-github_username:  jojoldu
+# twitter_username: SAKK
+github_username:  suksakk
 # dribbble_username: jekyll
 facebook_username: jojoldu
 # flickr_username: jekyll
