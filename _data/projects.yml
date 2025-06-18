@@ -2,7 +2,7 @@
   name: Spring boot 게시판 구조 개발
   link: https://github.com/suksakk/board.git
   quote: >
-    2024.09 ~ 2024.10
+    2024. 09 ~ 2024. 10
   description: | # this will include new lines to allow paragraphs
     * 게시판 프로젝트 구조 탐색 및 개발환경 구성  
     * 게시판 데이터베이스 연동 및 게시판 CRUD 처리 
@@ -13,7 +13,7 @@
   name: node.js로 인스타그램 구현 프로젝트
   link: https://github.com/suksakk/instagram_project.git
   quote: >
-    2024.12 ~ 2025.02
+    2024. 12 ~ 2025. 02
   description: | # this will include new lines to allow paragraphs
     * 로그인 화면 외부 api연결해서 구글계정 승인 
     * 홈 (팔로워를 많은 순으로 나열, 클릭 시 포팅 목록 이동)
