@@ -1,0 +1,15 @@
+
+- layout: left
+  company: 한국건축시공학회 우수상
+  job_title: 광섬유를 이용한 벽체 내장형 Li-Fi 점멸식 긴급대피추적 시스템 개발
+  dates: 2020.11.13
+  description: | # this will include new lines to allow paragraphs
+     * 광섬유를 활용하여 벽체 내장형 Li-Fi 점멸식 긴급대피추적 시스템을 구현하여 화재 시 벽체에 대피 장소 표시
+- layout: left
+  company: 한국교육시설학회 교육시설 디자인 입선
+  link:
+  job_title: 학교시설 디자인 부분 입선
+  dates: 2018.12. 14
+  description: | # this will include new lines to allow paragraphs
+     * 학교단지 디자인 설계 
+
