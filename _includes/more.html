@@ -1,8 +1,6 @@
 <div class="container more-container">
-    <h3>{{ site.more_title | default: "Awards" }}</h3>
-    <div class="row clearfix">
-      <div class="col-md-12">
-        {{ site.more_content | strip | markdownify }}
-      </div>
-    </div>
-  </div>
+  <h3>{{ site.education_title | default: "Experience" }}</h3>
+  {% for education in site.data.education %}
+    {% include {{ education.layout | default: 'left' | append: ".html" | prepend: "v1/" }} item=education %}
+  {% endfor %}
+</div>
