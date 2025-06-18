@@ -13,7 +13,7 @@
   name: node.js로 인스타그램 구현 프로젝트
   link: https://github.com/suksakk/instagram_project.git
   quote: >
-    2024. 12 ~ 2025. 02
+    2024.12 ~ 2025.02
   description: | # this will include new lines to allow paragraphs
     * 로그인 화면 외부 api연결해서 구글계정 승인 
     * 홈 (팔로워를 많은 순으로 나열, 클릭 시 포팅 목록 이동)
