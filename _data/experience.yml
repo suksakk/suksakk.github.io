@@ -1,29 +1,15 @@
-- layout: left
-  name: 내용
-  dates: 2018.04 ~ 2018.05
-  link: https://github.com
-  quote: >
-    내용 내용내용내용내용내용내용내용내용내용내용내용내용내용내용내용내용
-  description: | # this will include new lines to allow paragraphs
-    * 내용내용내용내용내용내용내용내용내용내용내용내용내용내용내용
-    * 내용내용내용내용내용내용내용내용내용내용내용내용내용내용내용내용
-- layout: left
-  name: 내용내용내용내용내용내용내용내용내용내용
-  dates: 내용내용내용내용내용내용내용내용
-  link: 내용내용내용내용내용내용내용내용내용
-  quote: >
-    내용내용내용내용내용내용내용내용내용내용
-  description: | # this will include new lines to allow paragraphs
-    * 내용내용내용내용내용내용내용내용내용내용내용내용내용내용
-    * 기본적인 인덱스, 실행 계획, RDBMS의 구조
-    * 실제 업무에 적용 후 쿼리 성능 향상 (5초 -> 1.2초)
-- layout: left
-  name: 패스트캠퍼스 자바 웹 프로그래밍 CAMP
-  dates: 2016.07 ~ 2016.08
-  link: https://jojoldu.tistory.com/301
-  quote: >
-    자바지기 박재성님의 교육
-  description: | # this will include new lines to allow paragraphs
-    * 테스트 코드와 클린 코드 교육
-    
 
+- layout: left
+  name: 인덕대학교 건축학과 전공심화과정 4년 학사
+  dates: 2014.03 ~ 2021.02
+  description: | # this will include new lines to allow paragraphs
+    * 전공 심화과정 4년 학사
+    * 학점 4.1/4.5
+- layout: left
+  name: 정보처리기사 자격증 취득
+  dates: 2024. 06
+- layout: left
+  name: 자동차운전면허증 취득
+  dates: 2021. 04
+  description: | # this will include new lines to allow paragraphs
+    
